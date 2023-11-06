@@ -3,11 +3,11 @@
 <h3 align="center">Always learning to learn.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 
-- 🌱 I’m currently learning: **Javascript**
+- 🌱 Trees are everything.
 
-- 📫 How to reach me: **alexneme@me.com**
+- 📫 <a href="mailto:alexneme@me.com">alexneme@me.com</a>
 
-- 📄 About me: **I love blockchain ecosystem**.
+- 📄 **I love blockchain ecosystem**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
